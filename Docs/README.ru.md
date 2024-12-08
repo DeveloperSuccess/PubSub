@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
+
 <h1 align="center">Паттерн «Издатель-подписчик»</h1>
 <h2 align="center">Пример реализации поведенческого шаблона «Издатель-подписчик»</h2>
 
